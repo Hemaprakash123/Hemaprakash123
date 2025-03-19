@@ -1,14 +1,14 @@
-# Hi there, I'm Vishnu(vsreddyh)! 👋
+# Hi there, I'm Hema prakash reddy 👋
 
 ## About Me 🚀
 
 I'm a passionate learning developer with experience in MERN,React Native,C,C++,Java,Python.
 I love learning new skills, and creating projects.
 
-- 🌱 Currently learning: **React Native and Auth0**
-- 🔭 Working on: **Saanjh Sahayak(mysaanjh)**
-- 🌍 Languages: **C,C++,Java,Python,JavaScript,Lua(beginner),Bash(beginner)**
-- 📫 How to reach me: **shouryanreddyh@gmail.com**
+
+- 🔭 Working on: **ISL-text generator**
+- 🌍 Languages: **C,C++,Java,Python,JavaScript,kotlin**
+- 📫 How to reach me: **hemaprakashreddy73@gmail.com**
 - ⚡ Fun fact: **I use Neovim btw**
 
 ## My Skills 🧠
@@ -81,6 +81,5 @@ I love learning new skills, and creating projects.
 ## Get in Touch 📬
 
 <!--- **[Personal Website / Blog]**(your_website_or_blog_link)-->
-- [LinkedIn](https://www.linkedin.com/in/vsreddyh/)
-- [Twitter](https://x.com/vsreddyh)
+- [LinkedIn]([https://www.linkedin.com/in/vsreddyh/](https://www.linkedin.com/in/hema-prakash-reddy-pakala-231a0b2a2/))
 >
